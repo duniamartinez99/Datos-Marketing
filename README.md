@@ -28,11 +28,12 @@ He limpiado los datos y realizado un Análisis Exploratorio de Datos (EDA) sobre
 
 ## :chart_with_downwards_trend: Datos obtenidos
 
-`C:\Users\dmartinezguebabi\OneDrive - Deloitte (O365D)\Documents\GitHub\Datos-Marketing\Data\marketingcampaigns.csv`
+Los datos fueron obtenidos mediante un archivo CSV. 
+Nombre del CSV: marketingcampaigns.csv
 
 ## :computer: Tecnologías Utilizadas
 
-Lenguajes: Python, SQL
+Lenguajes: Python
 
 Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
