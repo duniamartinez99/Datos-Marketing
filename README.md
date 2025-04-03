@@ -29,17 +29,18 @@ He limpiado los datos y realizado un Análisis Exploratorio de Datos (EDA) sobre
 ## :chart_with_downwards_trend: Datos obtenidos
 
 Los datos fueron obtenidos mediante un archivo CSV. 
-Nombre del CSV: marketingcampaigns.csv
+
+Nombre del CSV: [marketingcampaigns.csv]
 
 ## :computer: Tecnologías Utilizadas
 
 Lenguajes: Python
 
-Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn
 
 ## :hammer: Herramientas: 
 
-Jupyter Notebook, Tableau
+Jupyter Notebook, Napkin
 
 ## :page_facing_up: Licencia
 
